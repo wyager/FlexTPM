@@ -1,4 +1,4 @@
-use lib::*;
+use evaluator::*;
 
 // Just a wrapper around an array containing a bunch of instructions.
 // Good for testing stuff on desktop and very simple/fast,
